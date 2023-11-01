@@ -1,12 +1,12 @@
 package Iniciante;
 /*
-Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem, ao utilizar um automóvel que faz 12 KM/L. Para isso, ele gostaria que você o auxiliasse através de um simples programa. Para efetuar o cálculo, deve-se fornecer o tempo gasto na viagem (em horas) e a velocidade média durante a mesma (em km/h). Assim, pode-se obter distância percorrida e, em seguida, calcular quantos litros seriam necessários. Mostre o valor com 3 casas decimais após o ponto.
+Joaozinho quer calcular e mostrar a quantidade de litros de combustï¿½vel gastos em uma viagem, ao utilizar um automï¿½vel que faz 12 KM/L. Para isso, ele gostaria que vocï¿½ o auxiliasse atravï¿½s de um simples programa. Para efetuar o cï¿½lculo, deve-se fornecer o tempo gasto na viagem (em horas) e a velocidade mï¿½dia durante a mesma (em km/h). Assim, pode-se obter distï¿½ncia percorrida e, em seguida, calcular quantos litros seriam necessï¿½rios. Mostre o valor com 3 casas decimais apï¿½s o ponto.
 
 Entrada
-O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viagem (em horas) e o segundo é a velocidade média durante a mesma (em km/h).
+O arquivo de entrada contï¿½m dois inteiros. O primeiro ï¿½ o tempo gasto na viagem (em horas) e o segundo ï¿½ a velocidade mï¿½dia durante a mesma (em km/h).
 
-Saída
-Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
+Saï¿½da
+Imprima a quantidade de litros necessï¿½ria para realizar a viagem, com trï¿½s dï¿½gitos apï¿½s o ponto decimal
  */
 import java.io.IOException;
 import java.util.Scanner;
@@ -14,7 +14,7 @@ import java.lang.Math;
 
 public class gasto_de_combustivel {
 
-	public static void main(String[] args)  throws IOException {
+	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);
 		int tempo = sc.nextInt();
 		int velocidade = sc.nextInt();
