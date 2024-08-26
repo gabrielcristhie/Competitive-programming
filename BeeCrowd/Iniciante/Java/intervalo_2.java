@@ -33,26 +33,22 @@ public class intervalo_2 {
 
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);
-		
-		System.out.println("Digite o N \n");
-		
 		int n = sc.nextInt();
-		
+
 		int in = 0;
 		int out = 0;
 		int[] v = new int[n];
 
-        for (int i = 0; i < n ; i++) {
+		for (int i = 0; i < n; i++) {
 			v[i] = sc.nextInt();
-			if (v[i] > 10 && v[i] < 20) {
+			if (v[i] >= 10 && v[i] <= 20) {
 				in++;
 			} else {
 				out++;
 			}
 		}
-
-		System.out.println(in + " in\n");
-		System.out.println(out + " out\n");
+		System.out.println(in + " in");
+		System.out.println(out + " out");
 
 		sc.close();
 	}
