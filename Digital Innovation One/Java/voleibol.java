@@ -1,11 +1,11 @@
-package Dio;
+package Java;
 
 import java.io.IOException;
 import java.util.Scanner;
 
 public class voleibol {
  
-    // Abaixo segue um exemplo de código que você pode ou não utilizar
+    // Abaixo segue um exemplo de cï¿½digo que vocï¿½ pode ou nï¿½o utilizar
     public static void main(String[] args) throws IOException {
  
 
@@ -23,7 +23,7 @@ public class voleibol {
         int N = leitor.nextInt();          
 
 		for (int i =1; i < N; i++) {
-			//input para pegar o nome do jogador que não vai ser utilizado nos cálculos
+			//input para pegar o nome do jogador que nï¿½o vai ser utilizado nos cï¿½lculos
 			nome = leitor.next();
 			
 			pontuacao_saque = leitor.nextInt();

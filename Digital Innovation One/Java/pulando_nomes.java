@@ -1,4 +1,4 @@
-package Dio;
+package Java;
 
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.Scanner;

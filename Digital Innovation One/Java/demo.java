@@ -1,4 +1,4 @@
-package Dio;
+package Java;
 
 public class demo {
 

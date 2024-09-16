@@ -1,4 +1,4 @@
-package Dio;
+package Java;
 
 import java.io.IOException;
 import java.util.Scanner;

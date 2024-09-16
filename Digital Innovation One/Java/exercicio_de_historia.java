@@ -1,10 +1,10 @@
-package Dio;
+package Java;
 
 import java.util.Scanner;
 
 public class exercicio_de_historia
 {
-    // Abaixo segue um exemplo de código que você pode ou não utilizar
+    // Abaixo segue um exemplo de cï¿½digo que vocï¿½ pode ou nï¿½o utilizar
     public static void main(String[] args)
     {
        //a classe Scanner auxilia na leitura dos dados de entrada
@@ -12,9 +12,9 @@ public class exercicio_de_historia
        
         int ano, seculo;
     
-        // hasNext é um método da classe Java Scanner que retorna true se tiver outra entrada
+        // hasNext ï¿½ um mï¿½todo da classe Java Scanner que retorna true se tiver outra entrada
         while (input.hasNext()) {
-        	//TODO: Complete o código com uma solução possível
+        	//TODO: Complete o cï¿½digo com uma soluï¿½ï¿½o possï¿½vel
         	 ano = input.nextInt();
         	 if(ano % 100 != 0) {
         		 seculo = (ano / 100) + 1; 
