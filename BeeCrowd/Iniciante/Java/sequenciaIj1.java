@@ -2,7 +2,7 @@ package Iniciante.Java;
 
 import java.io.IOException;
 
-public class sequencisa_ij_1 {
+public class sequenciaIj1 {
     public static void main(String[] args) throws IOException {
     int I = 1;
     int J = 60;

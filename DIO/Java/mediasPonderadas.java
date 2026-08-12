@@ -3,7 +3,7 @@ package Java;
 //Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.Scanner;
 
-public class medias_ponderadas {
+public class mediasPonderadas {
  public static void main(String[] args)
  {
     Scanner input = new Scanner(System.in);

@@ -27,7 +27,7 @@ Exemplo de saida:
 import java.io.IOException;
 import java.util.Scanner;
 
-public class intervalo_2 {
+public class intervalo2 {
 
 	private static final int MAX = 10000;
 

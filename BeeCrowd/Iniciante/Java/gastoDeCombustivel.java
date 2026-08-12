@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class gasto_de_combustivel {
+public class gastoDeCombustivel {
 
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);

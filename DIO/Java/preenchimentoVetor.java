@@ -1,5 +1,5 @@
 package Java;
 
-public class preenchimento_vetor {
+public class preenchimentoVetor {
 
 }

@@ -2,7 +2,7 @@ package Iniciante.Java;
 
 import java.util.Scanner;
 
-public class positivo_e_media {
+public class positivoEMedia {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		double vet[] = new double[6];

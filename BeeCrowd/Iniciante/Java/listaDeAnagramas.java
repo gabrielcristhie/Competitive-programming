@@ -3,7 +3,7 @@ package Iniciante.Java;
 import java.util.List;
 import java.util.Scanner;
 
-public class lista_de_anagramas {
+public class listaDeAnagramas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

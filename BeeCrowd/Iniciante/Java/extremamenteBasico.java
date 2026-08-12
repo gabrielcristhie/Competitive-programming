@@ -10,7 +10,7 @@ Imprima a mensagem "X = " (letra X mai�scula) seguido pelo valor da vari�vel
 import java.io.IOException;
 import java.util.Scanner;
 
-public class extremamente_basico {
+public class extremamenteBasico {
 
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner (System.in);

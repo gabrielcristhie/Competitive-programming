@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class distancia_entre_dois_pontos {
+public class distanciaEntreDoisPontos {
 
 	public static void main(String[] args)  throws IOException {
 		Scanner sc = new Scanner(System.in);

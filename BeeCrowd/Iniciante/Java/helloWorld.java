@@ -9,7 +9,7 @@ Voc� deve imprimir a mensagem "Hello World!" e em seguida o final de linha, co
 */
 
 import java.io.IOException;
-public class hello_world {
+public class helloWorld {
 	public static void main(String[] args) throws IOException {
 		 
         System.out.println("Hello World!");

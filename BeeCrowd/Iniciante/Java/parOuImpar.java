@@ -2,7 +2,7 @@ package Iniciante.Java;
 
 import java.util.Scanner;
 
-public class par_ou_impar {
+public class parOuImpar {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();

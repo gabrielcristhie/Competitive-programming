@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class sort_simples {
+public class sortSimples {
 
 	public static void main(String[] args) throws IOException {
 

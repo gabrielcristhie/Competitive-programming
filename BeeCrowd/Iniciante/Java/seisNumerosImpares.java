@@ -13,7 +13,7 @@ A saída será uma sequência de seis números ímpares
 import java.io.IOException;
 import java.util.Scanner;
 
-public class seis_numeros_impares {
+public class seisNumerosImpares {
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 package Java;
 
-public class arrays_e_pares {
+public class arraysEPares {
 	
 	    public static void main(String[] args){
 

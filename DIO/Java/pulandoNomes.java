@@ -3,7 +3,7 @@ package Java;
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.Scanner;
 
-public class pulando_nomes {
+public class pulandoNomes {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 // TODO: complete os espaços em branco com sua solução para o problema

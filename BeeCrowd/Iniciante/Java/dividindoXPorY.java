@@ -2,7 +2,7 @@ package Iniciante.Java;
 
 import java.util.Scanner;
 
-public class dividindo_x_por_y {
+public class dividindoXPorY {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

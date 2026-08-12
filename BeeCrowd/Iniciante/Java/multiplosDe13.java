@@ -21,7 +21,7 @@ Saidas:
 import java.io.IOException;
 import java.util.Scanner;
 
-public class multiplos_de_13 {
+public class multiplosDe13 {
     public static void main(String[] args) throws IOException {
 
         Scanner sc = new Scanner(System.in);

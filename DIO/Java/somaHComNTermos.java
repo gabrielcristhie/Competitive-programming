@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class soma_h_com_n_termos {
+public class somaHComNTermos {
 
     public static void main(String[] Args) {
 

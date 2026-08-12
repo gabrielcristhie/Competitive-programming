@@ -30,7 +30,7 @@ Exemplo de Saída
 0 segundo(s)
 
 */
-public class tempo_de_um_evento {
+public class tempoDeUmEvento {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

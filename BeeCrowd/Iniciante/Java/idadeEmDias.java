@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class idade_em_dias {
+public class idadeEmDias {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

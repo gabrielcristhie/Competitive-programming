@@ -3,7 +3,7 @@ package Iniciante.Java;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class crescente_e_decrescente {
+public class crescenteEDecrescente {
     public static void main(String[] args)  throws IOException {
 		Scanner sc = new Scanner(System.in);
 		int x, y;

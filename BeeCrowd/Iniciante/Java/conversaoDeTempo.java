@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class conversao_de_tempo {
+public class conversaoDeTempo {
 
 	public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);

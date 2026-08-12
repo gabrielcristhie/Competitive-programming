@@ -3,7 +3,7 @@ package Java;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class calculo_simples {
+public class calculoSimples {
 	
   public static void main(String[] args) throws IOException {
      Scanner leitor = new Scanner(System.in);

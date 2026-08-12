@@ -18,7 +18,7 @@ MEDIA = 6.3
 import java.io.IOException;
 import java.util.Scanner;
 
-public class media_2 {
+public class media2 {
 
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);

@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 
 
-public class o_maior {
+public class oMaior {
 		public static void main(String[] args) throws IOException{
 			Scanner sc = new Scanner(System.in);
 			int a = sc.nextInt();

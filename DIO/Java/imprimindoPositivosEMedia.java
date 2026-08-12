@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class imprimindo_positivos_e_media {
+public class imprimindoPositivosEMedia {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

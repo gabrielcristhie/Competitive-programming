@@ -2,7 +2,7 @@ package Iniciante.Java;
 
 import java.util.Scanner;
 
-public class pares_impares_positivos_e_negativos {
+public class paresImparesPositivosENegativos {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int vet[] = new int[5];

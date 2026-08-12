@@ -17,7 +17,7 @@ A=12.5664
 import java.io.IOException;
 import java.util.Scanner;
 
-public class area_do_circulo {
+public class areDoCirculo {
 	public static void main(String[] args) throws IOException {
 
 		Scanner sc = new Scanner(System.in);

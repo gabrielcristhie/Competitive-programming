@@ -3,7 +3,7 @@ package Java;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class finonacci_facil {
+public class fibonacciFacil {
 
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);

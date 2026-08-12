@@ -11,7 +11,7 @@ Imprima o total que o funcion�rio dever� receber, conforme exemplo fornecido
 import java.io.IOException;
 import java.util.Scanner;
 
-public class salario_com_bonus {
+public class salarioComBonus {
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);
 		String nome = sc.nextLine();

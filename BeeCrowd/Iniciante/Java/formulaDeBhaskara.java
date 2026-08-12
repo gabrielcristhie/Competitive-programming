@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class formula_de_bhaskara {
+public class formulaDeBhaskara {
 		public static void main(String[] args) throws IOException{
 			Scanner sc = new Scanner(System.in);
 			double a = sc.nextDouble();

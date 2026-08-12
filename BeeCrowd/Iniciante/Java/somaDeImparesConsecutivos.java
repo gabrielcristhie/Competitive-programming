@@ -30,7 +30,7 @@ Exemplo de saida:
 import java.io.IOException;
 import java.util.Scanner;
 
-public class soma_de_impares_consecutivos {
+public class somaDeImparesConsecutivos {
 	
 	public static void main(String[] args) throws IOException{
 		Scanner sc = new Scanner(System.in);

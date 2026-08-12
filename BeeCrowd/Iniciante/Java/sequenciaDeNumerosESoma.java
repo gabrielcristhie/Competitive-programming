@@ -2,7 +2,7 @@ package Iniciante.Java;
 
 import java.util.Scanner;
 
-public class sequencia_de_numeros_e_soma {
+public class sequenciaDeNumerosESoma {
     private static final int MAX = 10000;
 
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package Iniciante.Java;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class validacao_de_nota {
+public class validacaoDeNota {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double num1, num2, media;

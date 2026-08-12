@@ -17,7 +17,7 @@ SOMA = 40
 import java.io.IOException;
 import java.util.Scanner;
 
-public class soma_simples {
+public class somaSimples {
 
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);

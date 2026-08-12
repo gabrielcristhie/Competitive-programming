@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class exercicio_de_historia
+public class exercicioDeHistoria
 {
     // Abaixo segue um exemplo de c�digo que voc� pode ou n�o utilizar
     public static void main(String[] args)

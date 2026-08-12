@@ -2,7 +2,7 @@ package Iniciante.Java;
 
 import java.util.Scanner;
 
-public class tipo_de_combustivel {
+public class tipoDeCombustivel {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
