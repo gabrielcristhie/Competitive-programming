@@ -1,2 +1,16 @@
 # Arquivos compilados Java
 *.class
+
+# VS Code
+.vscode/
+
+# Java
+.classpath
+.project
+.settings/
+
+# Arquivos temporários
+*.swp
+*.swo
+*~
+.DS_Store
