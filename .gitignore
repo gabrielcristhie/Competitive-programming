@@ -1,5 +1,6 @@
 # Arquivos compilados Java
 *.class
+/bin/
 
 # VS Code
 .vscode/
